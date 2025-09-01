@@ -1,5 +1,6 @@
 com\watchmaniac\service\ConsumoApi.class
-com\watchmaniac\service\ConverteDados.class
 model\DadosSerie.class
 com\watchmaniac\service\IConverteDados.class
+com\watchmaniac\service\ConverteDados.class
 com\watchmaniac\watchmaniac\WatchmaniacApplication.class
+model\DadosEpisodeo.class
